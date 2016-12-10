@@ -1,6 +1,9 @@
-# Segnet_web_scrapping\n
+# Segnet_web_scrapping
+
 This code can be used to download classified images from the Segnet's official website.
+
 Usage:
+
 python Segnet_web_scrapping.py lower_limit upper_limit step input_dir_path output_dir_path
 lower_limit = The lower limit of the name of the image.
 upper_limit = The upper limit of the name of the image.
