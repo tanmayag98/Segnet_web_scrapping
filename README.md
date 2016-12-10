@@ -1,4 +1,4 @@
-# Segnet_web_scrapping
+# Segnet_web_scrapping\n
 This code can be used to download classified images from the Segnet's official website.
 Usage:
 python Segnet_web_scrapping.py lower_limit upper_limit step input_dir_path output_dir_path
